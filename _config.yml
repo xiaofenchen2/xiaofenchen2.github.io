@@ -11,11 +11,11 @@ encoding: utf-8
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: 春 Faculty
+    name: 春 springy
   - key: grad
-    name: 夏 Graduate Students
+    name: 夏 summer
   - key: ugrad
-    name: 秋 Undergraduate Students
+    name: 秋 autumn
   - key: collab
     name: 冬 winter
 
