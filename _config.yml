@@ -10,7 +10,7 @@ permalink: /blog/:year/:month/:day/:title.html
 encoding: utf-8
 # Sections on the "people" page.
 roles:
-  - key: faculty
+  - key: 三餐四季
     name: 春 springy
   - key: grad
     name: 夏 summer
